@@ -1,0 +1,46 @@
+/* .business{
+    position:absolute;
+    top:2150px;
+    left:190px;
+}
+.business h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+.images{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   position:relative;
+   top:70px;
+   left:-103px;
+   
+}
+.image{
+   margin:15px;
+}
+#sb{
+  width:550px;
+  height:550px;
+}
+#st{
+   height:550px;
+   width:348px;
+
+}
+#et{
+    height:550px;
+    width:348px;
+} */
+#business{
+    width:90%;
+    /* position: absolute;
+    top:2500px;
+    left:5vw; */
+    margin-left:5vw;
+}
+.business{
+    margin-top:130px;
+}
