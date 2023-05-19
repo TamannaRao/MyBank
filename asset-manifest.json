@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyBank/static/css/main.4de93a53.css",
+    "main.js": "/MyBank/static/js/main.1bbe73fa.js",
+    "static/js/787.d3befce1.chunk.js": "/MyBank/static/js/787.d3befce1.chunk.js",
+    "static/media/Hero Section.png": "/MyBank/static/media/Hero Section.a1912c390d1165e7b361.png",
+    "static/media/Businesses.png": "/MyBank/static/media/Businesses.f29e70b50c340f584569.png",
+    "static/media/Mini Section.png": "/MyBank/static/media/Mini Section.429d1d476b3144036c37.png",
+    "static/media/Card 1.png": "/MyBank/static/media/Card 1.fcd6285109cbc516a4f8.png",
+    "static/media/Features.png": "/MyBank/static/media/Features.8d235ef7286921478dad.png",
+    "static/media/Testimonials.png": "/MyBank/static/media/Testimonials.0b4cea248a72e720e226.png",
+    "static/media/FAQ.png": "/MyBank/static/media/FAQ.33a1f979d79846d01094.png",
+    "static/media/Newsletter.png": "/MyBank/static/media/Newsletter.25092b3ec3c10a093d78.png",
+    "static/media/Trusted By.png": "/MyBank/static/media/Trusted By.90903c8194e5940c78b1.png",
+    "static/media/logo.svg": "/MyBank/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MyBank/index.html",
+    "main.4de93a53.css.map": "/MyBank/static/css/main.4de93a53.css.map",
+    "main.1bbe73fa.js.map": "/MyBank/static/js/main.1bbe73fa.js.map",
+    "787.d3befce1.chunk.js.map": "/MyBank/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de93a53.css",
+    "static/js/main.1bbe73fa.js"
+  ]
+}
